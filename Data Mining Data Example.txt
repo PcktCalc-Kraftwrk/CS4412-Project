@@ -1,0 +1,12 @@
+Movie Title \ IMDb Rating \ BOM Rating \ Box Office \ Critical Rating \ Audience Rating
+Avatar \ N/A \ #1 \ 2.9B \ 81% \ 82%
+Avengers: Endgame \ #73 \ #2 \ 2.8B \ 94% \ 90% 	
+Avatar: The Way of Water \ N/A \ #3 \ 2.3B \ 76% \ 92% 
+Titanic \ N/A \ #4 \ $2.26B \ 88% \ 69% 
+Ne Zha 2 \ N/A \ #5 \ $2.25B \ 91% \ 98% 
+The Shawshank Redemption \ #1 \ N/A \ $29M \ 89% \ 98% 
+The Godfather \ #2 \ N/A \ $250M \ 97% \ 98%
+The Dark Night \ #3 \ #59 \ $1.008B \ 94% \ 94% 
+The Godfather Part II \ #4 \ N/A \ $48M \ 96% \ 97%
+12 Angry Men \ #5 \ N/A \ I shit you not $9844 \ 100% \ 97%
+										^This is absolutely not adjusted for inflation										
