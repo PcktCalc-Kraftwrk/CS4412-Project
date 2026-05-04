@@ -14,11 +14,10 @@ Upload both files into Jupyter
 ## Team Info: Griffin Vines (Solo)
 
 ## Sources:
-chart/top/
 
 “Top Lifetime Grosses - Box Office Mojo,” Box Office Mojo, 2019. https://www.boxofficemojo.com/chart/ww\_top\_lifetime\_gross/?area=XWW //
 GeeksforGeeks, “Data Preprocessing in Python,” GeeksforGeeks, Oct. 29, 2017. https://www.geeksforgeeks.org/data-analysis/data-preprocessing-machine-learning-python/ //
-IMDb, “IMDb Top Rated Movies,” IMDb, 2019. https://www.imdb.com/ //
+IMDb, “IMDb Top Rated Movies,” IMDb, 2019. https://www.imdb.com/chart/top/ //
 J. Chen, “Seaborn Swarmplot Axis Interval Formatting,” Stack Overflow, Jul. 31, 2020. https://stackoverflow.com/questions/63196379/seaborn-swarmplot-axis-interval-formatting //
 Rotten Tomatoes, “Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews,” Rotten Tomatoes, 2025. https://www.rottentomatoes.com/ //
 Zach, “K-Means Clustering in Python: Step-by-Step Example,” Statology, Aug. 31, 2022. https://www.statology.org/k-means-clustering-in-python/ //
